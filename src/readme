@@ -1,6 +1,0 @@
-Individual enhanced functionality:
-
-Prior to starting the simulation, give the user the ability to click in the graphics window to place multiple light sources. The user should also be able to delete any light
- (either by dragging it off the screen or clicking it again).
-Initially, the simulation contains 0 lights. Click any where on the screen to add lights
-
